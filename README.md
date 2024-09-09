@@ -1,2 +1,2 @@
 # Power-BI-projects
-Images of Power BI projects 
+Power BI projects 
